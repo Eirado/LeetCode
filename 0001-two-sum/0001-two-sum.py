@@ -1,13 +1,20 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         
-        nums_set = set(nums)
+        hashMap = {}
         result = 0
 
         for i, num in enumerate(nums): 
-           result = target - num
-           if result in nums and nums.index(result) != i:
-                return [i , nums.index(result)]
+            
+            result = target - num
+            
+            if result in hashMap:
+                return [i, hashMap[result]]
+           
+            hashMap[num] = i
+            
+            
+
            
             
 
