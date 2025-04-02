@@ -7,7 +7,7 @@ class Solution:
             return False
 
         for i in range(N):
-            dic[s[i]] = (dic.get(s[i]) or 0) + 1 
+            dic[s[i]] = dic.get(s[i], 0)  + 1 
  
         for i in set(t):
             if i in dic.keys():
