@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/Eirado/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eirado/LeetCode/tree/master/0217-contains-duplicate) |
+| [2058-concatenation-of-array](https://github.com/Eirado/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Eirado/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
