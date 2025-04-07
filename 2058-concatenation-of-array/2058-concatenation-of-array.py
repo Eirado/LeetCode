@@ -1,6 +1,6 @@
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        
+
         N = len(nums)
         ans = [0] * (N * 2)
         k = 0
@@ -12,3 +12,5 @@ class Solution:
             k += 1
 
         return ans
+
+        # or just return nums + nums
