@@ -7,7 +7,7 @@ class Solution:
         for i, char in enumerate(first_srt):
           
           for j in strs[1:]:
-            if i == len(j) or j[i] != char:
+            if i >= len(j) or j[i] != char:
                 return result
           result += char
 
