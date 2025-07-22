@@ -1,22 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        
-        hashMap = {}
-        result = 0
 
         for i, num in enumerate(nums): 
-            
-            result = target - num
-            
-            if result in hashMap:
-                return [i, hashMap[result]]
+            desirable = target - num 
+            if desirable in nums and i != nums.index(desirable):
+                return [ nums.index(desirable), i]
            
-            hashMap[num] = i
-            
-            
-
-           
-            
-
-
-        
+   
