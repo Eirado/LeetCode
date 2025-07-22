@@ -1,12 +1,18 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashMap = {}
+        
+        hashmap = {}
+        res = []
 
-        for i in strs:
-            sorted_str = ''.join(sorted(i))
-            if sorted_str not in hashMap:
-                hashMap[sorted_str] = [i]
-            else:
-                hashMap[sorted_str] =  hashMap.get(sorted_str) + [i]
-
-        return list(hashMap.values())
+        for i, string in enumerate(strs): 
+            sorted_string = "".join(sorted(string))
+           
+            if sorted_string in hashmap:
+                hashmap[sorted_string] = hashmap.get(sorted_string) + [string]
+            else: 
+                hashmap[sorted_string] = [string]
+        
+        for value in hashmap.values():
+            res.append(value)
+            
+        return res 
