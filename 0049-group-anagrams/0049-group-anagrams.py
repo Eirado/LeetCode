@@ -4,15 +4,15 @@ class Solution:
         hashmap = {}
         res = []
 
-        for i, string in enumerate(strs): 
-            sorted_string = "".join(sorted(string))
-           
-            if sorted_string in hashmap:
-                hashmap[sorted_string] = hashmap.get(sorted_string) + [string]
-            else: 
-                hashmap[sorted_string] = [string]
-        
+        for i, word in enumerate(strs):
+          sorted_word = "".join(sorted(word))
+          
+          if sorted_word in hashmap:
+            hashmap[sorted_word] = hashmap.get(sorted_word) + [word]
+          else:
+            hashmap[sorted_word] = [word]
+
         for value in hashmap.values():
             res.append(value)
-            
-        return res 
+
+        return res
