@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eirado/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eirado/LeetCode/tree/master/0242-valid-anagram) |
+| [0816-design-hashset](https://github.com/Eirado/LeetCode/tree/master/0816-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0049-group-anagrams](https://github.com/Eirado/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eirado/LeetCode/tree/master/0217-contains-duplicate) |
+| [0816-design-hashset](https://github.com/Eirado/LeetCode/tree/master/0816-design-hashset) |
 | [2058-concatenation-of-array](https://github.com/Eirado/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
@@ -52,4 +54,16 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Eirado/LeetCode/tree/master/2058-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Eirado/LeetCode/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Eirado/LeetCode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Eirado/LeetCode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
