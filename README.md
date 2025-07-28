@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eirado/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eirado/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Eirado/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/Eirado/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Eirado/LeetCode/tree/master/0817-design-hashmap) |
 ## String
@@ -24,6 +25,7 @@
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eirado/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eirado/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Eirado/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0049-group-anagrams](https://github.com/Eirado/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eirado/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Eirado/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/Eirado/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Eirado/LeetCode/tree/master/0817-design-hashmap) |
 | [2058-concatenation-of-array](https://github.com/Eirado/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -48,10 +51,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Eirado/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Eirado/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -71,4 +76,16 @@
 | ------- |
 | [0816-design-hashset](https://github.com/Eirado/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Eirado/LeetCode/tree/master/0817-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Eirado/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Eirado/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Eirado/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
