@@ -32,11 +32,11 @@ class MyHashMap:
         h = hash(key)
         index = h % self.capacity
 
-        cur_node = self.dict[index]
+        cur_node = self.dict[index].next #we don't need to start at the dummy node
 
-        while cur_node.next:
-            if cur_node.next.key == key:
-                 return cur_node.next.value
+        while cur_node:
+            if cur_node.key == key:
+                 return cur_node.value
             cur_node = cur_node.next
         return -1
 
