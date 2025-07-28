@@ -1,42 +1,48 @@
+class Linkedlist: 
+    def __init__(self, key: any):
+        self.key = key 
+        self.next = None
+
 class MyHashSet:
 
     capacity = 10**4
 
     def __init__(self):
-        self.data = [None] * self.capacity
+        self.set = [Linkedlist(0) for i in range(self.capacity)]
 
     def add(self, key: int) -> None:
-
         h = hash(key)
         index = h % self.capacity
-
-        if self.data[index] is not None:
-            if key not in self.data[index]:
-                self.data[index].append(key)
-        else:
-            self.data[index] = [key]
-       
+        current_node = self.set[index]
+        while current_node.next:
+            if current_node.next.key == key:
+                return
+            current_node = current_node.next
+        current_node.next = Linkedlist(key)
 
     def remove(self, key: int) -> None:
         h = hash(key)
         index = h % self.capacity
 
-        if self.data[index] is not None:
-            if key in self.data[index]:
-                self.data[index].remove(key)
+        current_node = self.set[index]
+        while current_node.next:
+            if current_node.next.key == key:
+                current_node.next = current_node.next.next
+                return
+            current_node = current_node.next
+         
 
     def contains(self, key: int) -> bool:
         h = hash(key)
         index = h % self.capacity
-
-        if self.data[index] is not None and  key in self.data[index]:
-                return True 
-        else: 
-            return False
-
-
+        current_node = self.set[index]
+        while current_node.next:
+            if current_node.next.key == key:
+                return True
+            current_node = current_node.next
+        return False
         
-        
+
 # Your MyHashSet object will be instantiated and called as such:
 # obj = MyHashSet()
 # obj.add(key)
