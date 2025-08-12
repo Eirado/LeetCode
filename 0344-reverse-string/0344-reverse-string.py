@@ -5,9 +5,7 @@ class Solution:
         y = len(s) - 1 
 
         while x <= y:
-            temp = s[y]
-            s[y] = s[x]
-            s[x] = temp
+            s[x], s[y] = s[y], s[x]
             x += 1
             y -= 1
             
