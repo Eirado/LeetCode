@@ -20,6 +20,7 @@
 | [0125-valid-palindrome](https://github.com/Eirado/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Eirado/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Eirado/LeetCode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Eirado/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0027-remove-element](https://github.com/Eirado/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Eirado/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Eirado/LeetCode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Eirado/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Eirado/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Eirado/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
