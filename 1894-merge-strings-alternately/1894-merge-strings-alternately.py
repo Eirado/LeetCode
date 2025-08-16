@@ -3,11 +3,14 @@ class Solution:
 
         x, y = 0, 0
         res = []
-        while x < len(word1) and y < len(word2): 
+        range_len = min(len(word1), len(word2))
+        for i in range(range_len):
             res.append(word1[x]) 
             res.append(word2[y])
             x += 1
             y += 1
+
         res.append(word1[x:])
         res.append(word2[y:])
+        
         return "".join(res)
