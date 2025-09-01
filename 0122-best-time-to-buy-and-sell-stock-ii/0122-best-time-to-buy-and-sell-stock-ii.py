@@ -6,8 +6,5 @@ class Solution:
             profit += prices[i] - prices[i - 1]
        return profit
 
-    # Two moments, lowest moment, highest moment
-    # lowest moment buy 
-    # highest moment sell
-    # [7,1,5,3,6,4]
+    # greedy 
         
