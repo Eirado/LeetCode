@@ -39,6 +39,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eirado/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Eirado/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Eirado/LeetCode/tree/master/0049-group-anagrams) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eirado/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Eirado/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Eirado/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eirado/LeetCode/tree/master/0217-contains-duplicate) |
@@ -104,6 +105,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eirado/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Eirado/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Eirado/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eirado/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
