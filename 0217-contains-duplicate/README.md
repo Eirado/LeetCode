@@ -41,3 +41,6 @@
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 
+
+<hr><p><strong>Accepted</strong> &mdash; Time: 75 ms (29.29%), Space: 111.3 MB (35.13%)</p>
+
