@@ -27,3 +27,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> What if the inputs contain Unicode characters? How would you adapt your solution to such a case?</p>
+
+
+<hr><p><strong>Accepted</strong> &mdash; Time: 3 ms (45.85%), Space: 9.8 MB (26.41%)</p>
+
