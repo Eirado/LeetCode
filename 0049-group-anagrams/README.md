@@ -43,5 +43,5 @@
 </ul>
 
 
-<hr><p><strong>Accepted</strong> &mdash; Time: 23 ms (28.94%), Space: 26.2 MB (37.84%)</p>
+<hr><p><strong>Accepted</strong> &mdash; Time: 15 ms (69.24%), Space: 25.1 MB (68.42%)</p>
 
