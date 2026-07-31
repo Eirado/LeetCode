@@ -41,3 +41,7 @@
 	<li><code>0 &lt;= strs[i].length &lt;= 100</code></li>
 	<li><code>strs[i]</code> consists of lowercase English letters.</li>
 </ul>
+
+
+<hr><p><strong>Accepted</strong> &mdash; Time: 23 ms (28.94%), Space: 26.2 MB (37.84%)</p>
+
