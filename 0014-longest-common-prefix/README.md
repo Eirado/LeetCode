@@ -26,3 +26,7 @@
 	<li><code>0 &lt;= strs[i].length &lt;= 200</code></li>
 	<li><code>strs[i]</code> consists of only lowercase English letters if it is non-empty.</li>
 </ul>
+
+
+<hr><p><strong>Accepted</strong> &mdash; Time: 0 ms (100.00%), Space: 11.8 MB (57.65%)</p>
+
