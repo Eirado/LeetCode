@@ -56,3 +56,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>0 &lt;= nums[i] &lt;= 50</code></li>
 	<li><code>0 &lt;= val &lt;= 100</code></li>
 </ul>
+
+
+<hr><p><strong>Accepted</strong> &mdash; Time: 0 ms (100.00%), Space: 11.7 MB (85.09%)</p>
+
